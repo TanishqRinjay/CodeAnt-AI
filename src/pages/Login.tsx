@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { FiKey } from "react-icons/fi";
 import { Link } from "react-router-dom";
-import signIn1 from "../images/signin1.png";
+import signIn1 from "../images/signIn1.png";
 import logo from "../images/logo.png";
 import gitLab from "../images/gitlab.svg";
 import azure from "../images/azure.svg";
